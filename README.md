@@ -1,4 +1,4 @@
 Memory Pool
 ===========
 
-Single thread memmory pool in C++11
+Single thread memory pool in C++11
